@@ -11,7 +11,7 @@ export default function Home() {
         className="text-center bg-white/70 backdrop-blur-md rounded-2xl shadow-2xl p-10 border border-[#3C3B6E]/10 max-w-lg"
       >
         <h1 className="text-4xl sm:text-5xl font-bold mb-4 text-[#116466]">
-          Welcome to karacnnnnnnhi
+          Welcome to karacnnjdjdjdjnnnnhi
         </h1>
         <h2 className="text-3xl sm:text-4xl font-semibold text-[#3C3B6E]">
           Techmiles Solution
